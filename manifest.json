@@ -1,0 +1,25 @@
+{
+    "name": "Quick-Github",
+    "description" : "Open your Github Faster!",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "octocat.png"
+      
+    },
+    "permissions": ["declarativeContent"]
+    "commands": {
+      "_execute_browser_action": {
+        "suggested_key": {
+          "default": "Ctrl+Alt+G",
+          "mac": "MacCtrl+Alt+G"
+        },
+        "description": "Open quickgit.html"
+      }
+    }
+  
