@@ -12,12 +12,9 @@
       "default_icon": "octocat.png"
       
     },
+    "offline_enabled": false,
+    },
     "permissions": ["declarativeContent"]
-    "commands": {
-      "_execute_browser_action": {
-        "suggested_key": {
-          "default": "Ctrl+Alt+G",
-          "mac": "MacCtrl+Alt+G"
         },
         "description": "Open quickgit.html"
       }
