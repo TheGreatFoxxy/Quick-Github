@@ -12,11 +12,7 @@
       "default_icon": "octocat.png"
       
     },
-    "offline_enabled": false,
-    },
     "permissions": ["declarativeContent"]
-        },
-        "description": "Open quickgit.html"
-      }
-    }
+    },
+    "description": "Open quickgit.html"
   
