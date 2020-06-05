@@ -5,11 +5,17 @@
         "scripts": ["background.js"],
         "persistent": false
     },
-    "version": "1.0",
+    "icons": {
+        "16": "octocat16.png",
+        "32": "octocat32.png",
+        "64": "octocat64.png",
+        "128": "octocat128.png"
+    },
+    "version": "1.1.0",
     "manifest_version": 2,
     "browser_action": {
       "default_popup": "popup.html",
-      "default_icon": "octocat.png"
+      "default_icon": "octocat32.png"
       
     },
     "permissions": ["declarativeContent"]
