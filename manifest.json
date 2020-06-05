@@ -16,8 +16,4 @@
       "default_popup": "popup.html",
       "default_icon": "octocat48.png"
       
-    },
-    "permissions": ["declarativeContent"]
-    },
-    "description": "Open quickgit.html"
-  
+    }
