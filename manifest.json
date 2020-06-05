@@ -6,7 +6,7 @@
         "persistent": false
     },
     "icons": {
-        "32": "octocat32.png",
+        "16": "octocat16.png",
         "48": "octocat48.png",
         "128": "octocat128.png"
     },
@@ -14,7 +14,7 @@
     "manifest_version": 2,
     "browser_action": {
       "default_popup": "popup.html",
-      "default_icon": "octocat32.png"
+      "default_icon": "octocat48.png"
       
     },
     "permissions": ["declarativeContent"]
