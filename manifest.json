@@ -6,9 +6,8 @@
         "persistent": false
     },
     "icons": {
-        "16": "octocat16.png",
         "32": "octocat32.png",
-        "64": "octocat64.png",
+        "48": "octocat48.png",
         "128": "octocat128.png"
     },
     "version": "1.1.0",
