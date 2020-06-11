@@ -8,4 +8,5 @@ It is still in an early stage of testing, feel free to install this extension, a
 1. Download and unpack ``` Quick-Github.zip ``` 
 2. Navigate to ``` chrome://extensions ```
 3. Check the Developer Mode box/switch
-4.Click ``` load unpacked ```, select the ``` Quick-Github ``` file folder.
+4.Click 
+``` load unpacked ```, select the ``` Quick-Github ``` file folder.
