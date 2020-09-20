@@ -1,4 +1,4 @@
-# ![Image of Quick Github](/octocat64.png) Quick-Github
+# ![Image of Quick Github](/octocat48.png) Quick-Github
 A Chrome Extension that will let you open your Github faster!
 
 ## Warning
