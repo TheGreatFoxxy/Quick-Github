@@ -12,3 +12,6 @@ It is still in an early stage of testing, feel free to install this extension, a
 
 ## License
 - MIT License
+
+## Preview
+https://thegreatfoxxy.github.io/Quick-Github/popup.html
